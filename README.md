@@ -68,6 +68,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
-# super-gestao
+# Super-Gestao
 O Super Gestão é o sistema online de controle administrativo que pode transformar e potencializar os negócios da sua empresa.
->>>>>>> a5f3e40d36e61f42d5814ebf0bca842e6e4961a0
